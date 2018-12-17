@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat%7CKaushan+Script%7CPacifico%27');
+
+
+
+body{
+    margin: 5%;
+     background-image: url("background.jpg");
+       background-size: cover;
+      height: 100vh; 
+    background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+   font-family: 'Pacifico', cursive;
+}
+
+tr,th
+{
+    background-color:white;
+}
+.form-control{
+    border: 2px solid #705174;
+}
+
+.form-control:focus {
+  border: 3px solid #90a7db;
+}
+button:hover {
+  box-shadow: 10px 10px 5px grey;
+}
+#addNewItem
+{
+background-color: #7691fc !important;
+}
+.item-delete 
+{
+    background-color: #004380 !important;
+}
+.item-edit 
+{
+    background-color: #43b7ff !important;
+}
