@@ -1,5 +1,5 @@
 # COMP1073-Assignment2
-<h1>Assignment 2: coded by:</h1>
+<h2>coded by:</h2>
 <ul>
 <li>Shyla Grantmyre</li>
 <li>Alyssa Brown</li>
